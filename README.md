@@ -50,3 +50,8 @@ The workflow has successfully generated and delivered test reports. Findings dep
 ## Disclaimer
 
 This is a portfolio project demonstrating workflow automation and AI-assisted market intelligence. The generated reports are analytical aids, not independently verified research or investment advice.
+
+
+## Workflow Overview
+
+![Executive Market Intelligence Engine workflow](workflow-overview.png)
